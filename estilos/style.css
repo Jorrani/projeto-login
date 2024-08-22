@@ -71,7 +71,7 @@ div#formulario > p {
 form > input[type=submit] {
     display: block;
     font-size: 1em;
-    width: 100%;
+    width: 90%;
     height: 40px;
     background-color: #49a09d;
     color: white;
@@ -89,7 +89,7 @@ form > a.botao {
     display: block;
     text-align: center;
     font-size: 1em;
-    width: 100%;
+    width: 90%;
     height: 40px;
     padding-top: 5px;
     margin-top: 5px;
